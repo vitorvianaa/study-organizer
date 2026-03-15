@@ -18,9 +18,13 @@ Tracking de estudos com acompanhamento diario, semanal e mensal.
 ## ✨ Funcionalidades
 
 - **📅 Planejamento Semanal** — monte seu calendário da semana atribuindo matérias a cada dia
+![Planejamento Semanal](images/planejamento-semanal.png)
 - **⏱️ Cronômetro de Estudos** — inicie, pause e finalize sessões com registro automático de tempo (`HH:MM:SS`)
+![Cronometro](images/cronometro.png)
 - **📝 Notas por Matéria** — salve descrição, tópicos, referências e observações para cada matéria
+![Notas por Meteria](images/notas-por-materia.png)
 - **📊 Dashboard de Métricas** — gráfico de barras, ranking das matérias mais estudadas e totais por semana, mês e geral
+![Metricas](images/metricas.png)
 
 ---
 

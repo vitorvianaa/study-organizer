@@ -11,7 +11,7 @@ class Database {
     this.db.pragma('journal_mode = WAL');
     this.db.pragma('foreign_keys = ON');
     this.createTables();
-    this.seedDefaultSubjects();
+    //this.seedDefaultSubjects();
   }
 
   createTables() {
